@@ -56,8 +56,7 @@ const MyDrawerNavigator = createDrawerNavigator(
   },
   {
     drawerPosition: 'left',
-    drawerWidth: 300,
-    drawerBackgroundColor: 'transparent',
+    drawerWidth: 1000,
   },
 );
 

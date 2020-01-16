@@ -21,7 +21,7 @@ export default createAppContainer(
     },
     {
       contentComponent: Sidemenu,
-      drawerWidth: 300,
+      drawerWidth: 1000,
       drawerBackgroundColor: 'yellow',
       drawerPosition: 'left',
     },
